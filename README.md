@@ -19,4 +19,4 @@ Install WordPress on given ip address using ansible.
     - Restart `Apache`
 
 # Screen of Working Wordpress
-![Alt text](application.jpg)
+![](./application.jpg)
